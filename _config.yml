@@ -17,10 +17,10 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: false
-resume-url: https://github.com/drewtray/resume/blob/main/resume.pdf
+resume-external: true
+resume-url: https://www.drewtraylor.me/resume/resume.pdf
 
-url: https://drewtray.github.io
+# url: https://drewtray.github.io
 
 permalink: /:title/
 
